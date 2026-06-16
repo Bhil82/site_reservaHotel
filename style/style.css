@@ -1,0 +1,60 @@
+body{
+
+    font-weight: 400;
+    font-family: 'Segoe UI', lato, Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 2.2em;
+    color: #6b6b6c;
+    margin: 0;
+}
+
+
+header{
+    background-color: #f4511e;
+    padding: 10px;
+}
+
+header p{
+    color: #f9f6f6;
+   
+}
+
+h1{
+    font-size: 56px;
+    color: #f9f6f6;
+    padding: 10px;
+    text-align: center;
+}
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+nav li a{
+    padding: 14px;;
+    color: #f9f6f6;
+    text-decoration: none;
+}
+nav li{
+    float: left;
+}
+nav ul{
+    float: right;
+    list-style: none;
+}
+nav{
+    font-size: 12px;
+    letter-spacing: 4px;
+    height: 60px;
+    background-color: #c80202;
+    padding-right: 40px;
+    
+}
+
+.carousel-caption h5{
+    font-size: 60px;
+    color: #05ed3bdf;
+    text-shadow: 2px 2px 2px #040404;
+}
